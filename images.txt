@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构1
 #--platform=linux/arm64 xiaoyaliu/alist
-kylemanna/openvpn
+#kylemanna/openvpn
+jenkins
