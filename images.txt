@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #kylemanna/openvpn
 #jenkins:2.60.3
-jenkins:2.46.3-alpine
+#jenkins:2.46.3-alpine
+ubuntu:24.10
