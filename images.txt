@@ -8,10 +8,9 @@
 #jenkins:2.60.3
 #jenkins:2.46.3-alpine
 #ubuntu:24.10
-elasticsearch:7.10.0
-kibana:7.10.0
-logstash:7.10.0
-jenkinsci/blueocean
+elasticsearch:8.15.0
+kibana:8.15.0
+logstash:8.15.0
 gitlab/gitlab-ce
 phacility/arcanist
 portainer/portainer
