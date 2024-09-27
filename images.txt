@@ -7,4 +7,11 @@
 #kylemanna/openvpn
 #jenkins:2.60.3
 #jenkins:2.46.3-alpine
-ubuntu:24.10
+#ubuntu:24.10
+elasticsearch:7.10.0
+kibana:7.10.0
+logstash:7.10.0
+jenkinsci/blueocean
+gitlab/gitlab-ce
+phacility/arcanist
+portainer/portainer
