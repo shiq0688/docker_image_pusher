@@ -17,4 +17,5 @@
 #openjdk:8-jre-alpine
 #bitnami/kafka:3.6.2
 #bitnami/zookeeper:3.6.2
-radarbase/kafka-manager:latest
+#radarbase/kafka-manager:latest
+zookeeper:3.6.2
