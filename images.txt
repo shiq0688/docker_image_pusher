@@ -15,5 +15,6 @@
 #sonarqube:latest
 #portainer/portainer:latest
 #openjdk:8-jre-alpine
-bitnami/kafka:3.6.2
-bitnami/zookeeper:3.6.2
+#bitnami/kafka:3.6.2
+#bitnami/zookeeper:3.6.2
+radarbase/kafka-manager:latest
