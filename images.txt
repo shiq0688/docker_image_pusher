@@ -18,4 +18,5 @@
 #bitnami/kafka:3.6.2
 #bitnami/zookeeper:3.6.2
 #radarbase/kafka-manager:latest
-zookeeper:3.6.2
+#zookeeper:3.6.2
+sheepkiller/kafka-manager:latest
